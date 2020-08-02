@@ -48,8 +48,7 @@ Ideas for development:
 
 
 
--- Sincerely,  
-Alex
+
 
 [![GitHub](https://img.shields.io/github/followers/alexlyee.svg?style=social)](https://github.com/alexlyee/) 
 [![Twitter](https://img.shields.io/twitter/follow/alexlyee.svg?label=feel%20free%20to%20add%20me&style=social)](https://twitter.com/alexlyee)
