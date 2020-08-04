@@ -1,7 +1,7 @@
 @echo off
 cls
 ::::::::::::::::::::::::::::::::::::::::::::
-:: Alex's final revision elevated perms checker and requester
+:: 
 ::  ; note that it does restart the batch file if it does have to request.
 ::  ; it's a good idea to run this at the beginning of the main script.
 ::  ; cscript "%temp%\getadmin.vbs" ""%~s0"" %*
