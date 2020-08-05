@@ -27,7 +27,7 @@ if NOT defined KeepScript (del /q "%temp%\getadmin.vbs" && echo Deleted script )
 exit /B
 :gotPrivileges
 ::::::::::::::::::::::::::::::::::::::::::::
-:: V3.3 https://github.com/alexlyee
+:: V3.3 
 ::::::::::::::::::::::::::::::::::::::::::::
 title installer...
 cls
